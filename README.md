@@ -18,11 +18,18 @@ By transforming raw data into insightful visuals, this project provides a compre
 Tool / Library	Purpose
 
 🐍 Python	Core programming language
+
 🧮 Pandas	Data cleaning and manipulation
+
 🔢 NumPy	Numerical computation
+
 📈 Matplotlib	Static data visualization
+
 🌈 Seaborn	Enhanced statistical plotting
+
 📓 Jupyter Notebook	Development and documentation
+
+
 📊 Workflow
 
 Data Collection: Import and explore housing dataset.
