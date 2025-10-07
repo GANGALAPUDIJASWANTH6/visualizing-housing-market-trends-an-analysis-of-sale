@@ -16,6 +16,7 @@ By transforming raw data into insightful visuals, this project provides a compre
 
 ⚙️ Tools & Technologies Used
 Tool / Library	Purpose
+
 🐍 Python	Core programming language
 🧮 Pandas	Data cleaning and manipulation
 🔢 NumPy	Numerical computation
