@@ -1,7 +1,9 @@
 # visualizing-housing-market-trends-an-analysis-of-sale
+
 📘 Overview
 
 This project explores housing market trends by analyzing and visualizing real estate sales data.
+
 It aims to uncover key factors influencing house prices, such as area, number of rooms, and location, using Python-based data visualization techniques.
 
 By transforming raw data into insightful visuals, this project provides a comprehensive understanding of the housing market landscape.
@@ -45,8 +47,11 @@ Insights & Conclusions: Derive findings from visual results.
 💡 Key Insights
 
 ✅ Strong correlation between house size and sale price.
+
 ✅ Regional variations impact average house pricing.
+
 ✅ Trends reveal market fluctuations over time.
+
 
 📈 Results
 
